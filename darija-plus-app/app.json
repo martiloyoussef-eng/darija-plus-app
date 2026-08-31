@@ -1,0 +1,71 @@
+{
+  "expo": {
+    "name": "Darija+",
+    "slug": "darija-plus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0D0D0D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true,
+      "bundleIdentifier": "com.darijaplus.app",
+      "buildNumber": "1",
+      "splash": {
+        "image": "./assets/splash.png",
+        "tabletImage": "./assets/splash-tablet.png"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0D0D0D"
+      },
+      "permissions": [
+        "RECORD_AUDIO",
+        "MODIFY_AUDIO_SETTINGS"
+      ],
+      "package": "com.darijaplus.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "Darija+ | Learn Moroccan Arabic & Amazigh",
+      "description": "The #1 app for learning authentic Moroccan Darija & Amazigh. AI pronunciation, native tutors, video reels.",
+      "scope": "/",
+      "startUrl": "/",
+      "display": "standalone",
+      "orientation": "portrait-primary",
+      "theme_color": "#C1440E",
+      "background_color": "#0D0D0D"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ]
+    ],
+    "owner": "darijaplus",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ea0f8dee-822f-48c3-b077-34248691a6e2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea0f8dee-822f-48c3-b077-34248691a6e2"
+      }
+    }
+  }
+}

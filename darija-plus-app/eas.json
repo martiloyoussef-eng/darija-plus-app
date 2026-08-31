@@ -1,0 +1,41 @@
+{
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      },
+      "ios": {
+        "simulator": true
+      }
+    },
+    "preview2": {
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      }
+    },
+    "preview3": {
+      "developmentClient": true
+    },
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
+      }
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "ascAppId": 6737829346,
+        "appleId": "developer@darijaplus.com",
+        "appleTeamId": "XXXXXXXXXX",
+        "bundleIdentifier": "com.darijaplus.app"
+      },
+      "android": {
+        "serviceAccount": "service-account.json",
+        "track": "production",
+        "releaseStatus": "completed",
+        "packageIdentifier": "com.darijaplus.app"
+      }
+    }
+  }
+}
