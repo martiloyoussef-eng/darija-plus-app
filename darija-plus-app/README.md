@@ -2,11 +2,13 @@
 
 **The #1 app for learning authentic Moroccan Darija & Amazigh with AI pronunciation grading, native tutors, and TikTok-style video reels.**
 
+> **Created by [Youssef Elfahfouhi](https://github.com/martiloyoussef-eng)**
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![React Native](https://img.shields.io/badge/react%20native-0.76-brightgreen)
 ![Expo](https://img.shields.io/badge/expo-52.0-brightgreen)
 ![TypeScript](https://img.shields.io/badge/typescript-5.3-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Proprietary-orange)
 
 ## 🌟 Features
 
@@ -220,7 +222,11 @@ Full API documentation: https://api.darijaplus.com/docs
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+**Copyright © 2026 Youssef Elfahfouhi. All rights reserved.**
+
+This project is proprietary software created by Youssef Elfahfouhi. See the [LICENSE](../LICENSE) file for details.
+
+**Important:** Any public distribution, deployment, or use of this software must include prominent attribution to "Created by Youssef Elfahfouhi" and reference to the Darija+ project.
 
 ## 📞 Support
 
@@ -238,6 +244,8 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 
 ---
 
-**Made with passion by Darija+ Team**
+**Darija+ © 2026 — Created with ❤️ by Youssef Elfahfouhi**
 
 *Learn Darija. Connect with Morocco. Preserve Heritage.*
+
+For commercial inquiries, licensing, or partnerships: youssef@darija-plus.app

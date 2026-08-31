@@ -2,6 +2,13 @@
   "name": "darija-plus",
   "version": "1.0.0",
   "description": "Learn Moroccan Arabic (Darija) & Amazigh with AI pronunciation grading, native tutors, and TikTok-style reels",
+  "author": "Youssef Elfahfouhi <youssef@darija-plus.app>",
+  "license": "Proprietary",
+  "homepage": "https://darijaplus.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martiloyoussef-eng/darija-plus-app"
+  },
   "main": "node_modules/expo/AppEntry.js",
   "type": "module",
   "scripts": {
